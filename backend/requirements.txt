@@ -1,2 +1,5 @@
 fastapi
-avicorn
+uvicorn
+sqlalchemy
+psycopg2
+python-dotenv
