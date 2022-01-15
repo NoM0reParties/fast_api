@@ -1,4 +1,4 @@
-from sqlalchemy import create_engine, engine
+from sqlalchemy import create_engine
 from typing import Generator
 from sqlalchemy.orm import sessionmaker
 
